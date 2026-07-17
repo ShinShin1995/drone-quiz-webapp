@@ -9,3 +9,9 @@ Thumbs.db
 .gemini/
 .agents/
 scratch/
+
+# Large binaries & transient text files
+*.pdf
+*.docx
+*.txt
+.review_history.json
